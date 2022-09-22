@@ -1,3 +1,5 @@
-# MCA
+# Dylans MCA project
 \[Enter your responses to Week 1, tasks 2 and 3 here\]
-\[Week 1\]
+
+# Week 1
+
