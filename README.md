@@ -10,3 +10,13 @@ Key challenges to working with music/music related data is the restrictions that
 #  Week 2
 
 During week 2, I can imported a score into Musescore and corrected any issues that cropped up during the transcribing of the score.
+
+
+# Week 4
+
+
+During Week 4, I used python code to analyse an excel file which I created using jsymbolic. I used the code to create interesting data regarding my own chosen score, such as a pitch histogram which is displayed below.
+
+
+
+<img width="368" alt="Myscorehistogram" src="https://user-images.githubusercontent.com/113992031/195601291-32e6d9a4-5245-47ab-a85e-a65c9cc3b3e4.png">
