@@ -12,6 +12,13 @@ Key challenges to working with music/music related data is the restrictions that
 During week 2, I can imported a score into Musescore and corrected any issues that cropped up during the transcribing of the score.
 
 
+
+# Week 3
+
+
+https://dtm-23.github.io/MCA-2022/verovio.html
+
+
 # Week 4
 
 
