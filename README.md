@@ -54,4 +54,8 @@ During week 8, I found classical piano pieces which I could then analyse in the 
 
 Example 1:
 
+![Beethovanspectro](https://user-images.githubusercontent.com/113992031/201108147-7b6e01fc-c0c2-4474-a218-49ed8efdd78c.png)
 
+
+
+![Beethovanwaveform](https://user-images.githubusercontent.com/113992031/201108192-52ef8951-c0a5-42ff-9ace-bde5a48174f5.png)
