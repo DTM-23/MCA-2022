@@ -29,3 +29,29 @@ During Week 4, I used python code to analyse an excel file which I created using
 <img width="368" alt="Myscorehistogram" src="https://user-images.githubusercontent.com/113992031/195601291-32e6d9a4-5245-47ab-a85e-a65c9cc3b3e4.png">
 
 I also uploaded the chord analysis of my piece into my data folder so it can be viewed.
+
+
+# Week 5
+
+
+
+
+
+
+
+
+# Week 7
+
+
+
+
+
+
+# Week 8
+
+
+During week 8, I found classical piano pieces which I could then analyse in the form of a spectrograph in sonic visualiser.
+
+Example 1:
+
+
