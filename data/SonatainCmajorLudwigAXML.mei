@@ -15,7 +15,7 @@
                
                <resp> Encoded by </resp>
                <resp> Dylan Murphy </resp>
-               </respstmt>
+               </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-12-07" type="encoding-date">2022-12-07</date>
             
@@ -30,11 +30,7 @@
             </availability>
            
          </pubStmt>
-         <editionstmt>
-            <edition> Metadata update, 
-               <date>2022-07-12</date>
-            </edition>
-            </editionstmt>
+         
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-7fvkc5">
          <appInfo xml:id="appinfo-2nar51">
