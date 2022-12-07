@@ -5,11 +5,35 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title />
-            <respStmt />
+            <title Sonata in C Major </title>
+            <title type="subtitle">
+            </title>
+            <editor> Christian Hesse </editor>
+            <respStmt>
+               
+               
+               <resp> Encoded by </resp>
+               <resp> Dylan Murphy </resp>
+               </respstmt>
          </titleStmt>
          <pubStmt><date isodate="2022-12-07" type="encoding-date">2022-12-07</date>
+            
+            <publisher> 
+               <corpName> CAESURA </corpname>
+            </publisher>
+            
+            <availability>
+               <useRestrict auth.url="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                            auth="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC-SA 
+                  </userestrict>
+            </availability>
+           
          </pubStmt>
+         <editionstmt>
+            <edition> Metadata update, 
+               <date>2022-07-12</date>
+            </edition>
+            <editionstmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-7fvkc5">
          <appInfo xml:id="appinfo-2nar51">
