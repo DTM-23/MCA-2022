@@ -48,7 +48,9 @@ I also uploaded the chord analysis of my piece into my data folder so it can be 
 # Week 5
 
 
+This week saw the introduction of the importance of metadata. I went into my MEI file that I have been analysing across the last few weeks and annotaed the MEI header with key metadata regarding the piece. 
 
+I modified and added in elements such as the editor of the sheet music that I used, as well as adding in the publisher along with a auth.url link to the copyright that the sheet music adheres to.
 
 
 
