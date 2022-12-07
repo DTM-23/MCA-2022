@@ -9,7 +9,7 @@ Key challenges to working with music/music related data is the restrictions that
 
 #  Week 2
 
-During week 2, I imported a score into Musescore and corrected any issues that cropped up during the transcribing of the score. The piece was titled Sonata in C major by composer Ludwig Abelle. The main issues that occured with the transcribing of this particular score came with the lacking of dynamic markings that carried over from the original composition. 
+During week 2, I imported a score into Musescore and corrected any issues that cropped up during the transcribing of the score. The piece was titled Sonata in C major by composer Ludwig AbeIlle. The main issues that occured with the transcribing of this particular score came with the lacking of dynamic markings that carried over from the original composition which led to a tedious process of implenting them step by step. 
 
 
 
@@ -54,26 +54,27 @@ During week 8, I found classical piano pieces which I could then analyse in the 
 
 Example 1:
 
+Spectrogram: 
 ![Beethovanspectro](https://user-images.githubusercontent.com/113992031/201108147-7b6e01fc-c0c2-4474-a218-49ed8efdd78c.png)
 
-
+Waveform:
 ![Beethovanwaveform](https://user-images.githubusercontent.com/113992031/201108192-52ef8951-c0a5-42ff-9ace-bde5a48174f5.png)
 
 Example 2:
 
-
+Waveform:
 ![jadinwaveform](https://user-images.githubusercontent.com/113992031/201110120-f3f27c24-5a73-4b9d-a14f-7210391b8284.png)
 
 
-
+Spectogram:
 ![Jadinspectro](https://user-images.githubusercontent.com/113992031/201110147-5cf14043-9fab-408e-8e73-b16728d4d42d.png)
 
 Example 3:
 
-
+Waveform:
 ![Beethovanstrings](https://user-images.githubusercontent.com/113992031/201920131-eb332cfa-9742-4093-ac68-2e0a94a5a2e5.png)
 
-
+Spectogram:
 ![beethovanstringsspectro](https://user-images.githubusercontent.com/113992031/201920165-4cbe4584-390b-42e8-a858-864b33199e3d.png)
 
 # Week 9
