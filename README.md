@@ -9,7 +9,7 @@ Key challenges to working with music/music related data is the restrictions that
 
 #  Week 2
 
-During week 2, I can imported a score into Musescore and corrected any issues that cropped up during the transcribing of the score.
+During week 2, I imported a score into Musescore and corrected any issues that cropped up during the transcribing of the score. The piece was titled Sonata in C major by composer Ludwig Abelle. The main issues that occured with the transcribing of this particular score came with the lacking of dynamic markings that carried over from the original composition. 
 
 
 
