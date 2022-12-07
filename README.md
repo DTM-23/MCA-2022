@@ -11,6 +11,18 @@ Key challenges to working with music/music related data is the restrictions that
 
 During week 2, I imported a score into Musescore and corrected any issues that cropped up during the transcribing of the score. The piece was titled Sonata in C major by composer Ludwig AbeIlle. The main issues that occured with the transcribing of this particular score came with the lacking of dynamic markings that carried over from the original composition which led to a tedious process of implenting them step by step. 
 
+Below is an example of the first fews bars of the piece before and then after it was transcribed by Musescore:
+
+Before:
+
+
+![ORIGINAL SONATA C](https://user-images.githubusercontent.com/113992031/206073438-6b670ec8-e1f3-4598-9e46-fdaa310c1282.PNG)
+
+
+
+After:
+
+![Transcribed Sonata C](https://user-images.githubusercontent.com/113992031/206073453-fa552d37-42d2-4423-bfb9-e40c2b255183.PNG)
 
 
 # Week 3
