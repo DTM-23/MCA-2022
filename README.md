@@ -40,7 +40,9 @@ During Week 4, I used python code to analyse an excel file which I created using
 
 <img width="368" alt="Myscorehistogram" src="https://user-images.githubusercontent.com/113992031/195601291-32e6d9a4-5245-47ab-a85e-a65c9cc3b3e4.png">
 
-I also uploaded the chord analysis of my piece into my data folder so it can be viewed.
+The Jsymbolic analysis of my piece also displayed intriguing results. I learned that the number of pitches within my piece was 31, along with the mean pitch being 65.The most common pitch class was 7. 
+
+I also uploaded the chord analysis of my piece into my data folder so it can be viewed. This file can be used for indepth analysis of individual chords, giving details on their step, octave, duration and note type.
 
 
 # Week 5
