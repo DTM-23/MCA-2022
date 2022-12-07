@@ -6,9 +6,8 @@
       <fileDesc>
          <titleStmt>
             <title Sonata in C Major </title>
-            <title type="subtitle">
             
-            </title>
+           
             <Composer> Ludwig Abeille </composer>
             <editor> Christian Hesse </editor>
             <respStmt>
@@ -27,7 +26,7 @@
             <availability>
                <useRestrict auth.url="https://creativecommons.org/licenses/by-nc-sa/4.0/"
                             auth="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC-SA 
-                  </userestrict>
+                  </useRestrict>
             </availability>
            
          </pubStmt>
@@ -35,7 +34,7 @@
             <edition> Metadata update, 
                <date>2022-07-12</date>
             </edition>
-            <editionstmt>
+            </editionstmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-7fvkc5">
          <appInfo xml:id="appinfo-2nar51">
