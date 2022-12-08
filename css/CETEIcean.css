@@ -1829,7 +1829,7 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="composer"]::befo
   margin-top: 2em;
 }
 
-mei-filedesc > mei-titlestmt> mei-respstmt > mei-persname[role="encoder"]::before {
+mei-filedesc > mei-titlestmt> mei-respstmt > mei-name::before {
   font-weight: bold;
   content: '\a'"Encoded by: ";
   white-space: pre;
