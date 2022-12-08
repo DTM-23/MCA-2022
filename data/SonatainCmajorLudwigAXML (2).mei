@@ -12,7 +12,18 @@
             </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-12-07" type="encoding-date">2022-12-07</date>
+            <Publisher> Caesura </Publisher>
+            
+            <availability>
+            <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA </useRestrict>
+          </availability>
+            
          </pubStmt>
+         <seriesStmt>
+            <title> My Music Curation and Data analysis portfolio </title>
+            <editor> Dylan Murphy </editor>
+         </seriesStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-ehim53">
          <appInfo xml:id="appinfo-1huypmg">
@@ -20,8 +31,14 @@
                <name xml:id="name-4l34pb">Verovio</name>
                <p xml:id="p-3osofh">Transcoded from MusicXML</p>
             </application>
+            <projectDesc> Sonata in C major is the piece which I have been focusing on as the subject of lab task analysis, and is apart of my dataset in my portfolio for Music Curation and Analysis </projectDesc>
+            
          </appInfo>
       </encodingDesc>
+      <worklist>
+         <classification>
+            <genre> Classical </genre>
+         </classification>
    </meiHead>
    <music>
       <body>
