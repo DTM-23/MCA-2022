@@ -27,8 +27,10 @@ After:
 
 # Week 3
 
+The link below will display my transcribed score online via the verovio viewer, along with some comments on the differences and advantages that XML and MEI files respectively have.
 
 https://dtm-23.github.io/MCA-2022/verovio.html
+
 
 
 # Week 4
