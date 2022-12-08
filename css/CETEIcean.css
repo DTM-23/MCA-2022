@@ -1833,7 +1833,12 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-name::before {
   font-weight: bold;
   content: '\a'"Encoded by: ";
   white-space: pre;
-  font-size: 30pt;
+  font-size: 15pt;
+}
+
+mei-filedesc > mei-titlestmt> mei-respstmt > mei-name {
+  font-size: 15pt;
+  font-weight: bold;
 }
 
 mei-filedesc > mei-pubstmt > mei-respstmt {
