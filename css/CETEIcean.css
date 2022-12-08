@@ -1814,7 +1814,7 @@ mei-title[type="subordinate"] {
 mei-filedesc > mei-titlestmt > mei-title {
   color: #595b66;
   display: block;
-  font-size: 24pt;
+  font-size: 30pt;
 }
 
 mei-filedesc > mei-titlestmt > mei-respstmt {
