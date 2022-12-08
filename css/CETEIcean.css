@@ -1855,7 +1855,7 @@ mei-filedesc > mei-pubstmt > mei-date::after {
 }
 
 mei-filedesc > mei-pubstmt > mei-availability > mei-userestrict {
-  font-style: italic;
+  font-style: bold;
   display: block;
   margin-top: 0.5em;
 }
