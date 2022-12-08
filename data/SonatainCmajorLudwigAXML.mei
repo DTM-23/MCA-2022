@@ -13,7 +13,7 @@
                
                
                <resp> Encoded by </resp>
-               <resp> Dylan Murphy </resp>
+               <name> Dylan Murphy </name>
                </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-12-07" type="encoding-date">2022-12-07</date>
@@ -21,9 +21,9 @@
             <publisher> 
                <corpName> CAESURA </corpname>
             </publisher>
-            
+            <date> 2021 </date>
             <availability>
-               <useRestrict auth.url="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+               <useRestrict authURL="https://creativecommons.org/licenses/by-nc-sa/4.0/"
                             auth="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC-SA 
                   </useRestrict>
             </availability>
@@ -37,6 +37,7 @@
                <name xml:id="name-b6d6bf">Verovio</name>
                <p xml:id="p-10yhtik">Transcoded from MusicXML</p>
             </application>
+            <projectDesc> Sonata in C major is a piece that I am analysing as part of my music curation and analysis portfolio </ProjectDesc>
          </appInfo>
       </encodingDesc>
    </meiHead>
