@@ -42,7 +42,7 @@ During Week 4, I used python code to analyse an excel file which I created using
 
 <img width="368" alt="Myscorehistogram" src="https://user-images.githubusercontent.com/113992031/195601291-32e6d9a4-5245-47ab-a85e-a65c9cc3b3e4.png">
 
-The Jsymbolic analysis of my piece also displayed intriguing results. I learned that the number of pitches within my piece was 31, along with the mean pitch being 65.The most common pitch class was 7. 
+The Jsymbolic analysis of my piece also displayed intriguing results. I learned that the number of pitches within my piece was 31, along with the mean pitch being 65 and the most common pitch class being 7. 
 
 I also uploaded the chord analysis of my piece into my data folder so it can be viewed. This file can be used for indepth analysis of individual chords, giving details on their step, octave, duration and note type.
 
@@ -52,7 +52,7 @@ I also uploaded the chord analysis of my piece into my data folder so it can be 
 
 This week saw the introduction of the importance of metadata. I went into my MEI file that I have been analysing across the last few weeks and annotaed the MEI header with key metadata regarding the piece. 
 
-I modified and added in elements such as the editor of the sheet music that I used, as well as adding in the publisher along with a auth.url link to the copyright that the sheet music adheres to.
+I modified and added in elements such as the editor of the sheet music that I used, as well as adding in the publisher along with a auth.url link to the copyright that the sheet music adheres to. Below is a link to the edited file.
 
 
 
@@ -61,7 +61,7 @@ I modified and added in elements such as the editor of the sheet music that I us
 # Week 7
 
 
-
+ This week saw further editing of the week 5 file on enrich it with more metadata which was then displayed using the verovio viewer. CSS code was used to neatly format the metadata at the top of the piece to make it more readable.
 
 
 
@@ -94,6 +94,7 @@ Waveform:
 
 Spectogram:
 ![beethovanstringsspectro](https://user-images.githubusercontent.com/113992031/201920165-4cbe4584-390b-42e8-a858-864b33199e3d.png)
+
 
 # Week 9
 
