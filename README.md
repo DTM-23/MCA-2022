@@ -54,6 +54,8 @@ This week saw the introduction of the importance of metadata. I went into my MEI
 
 I modified and added in elements such as the editor of the sheet music that I used, as well as adding in the publisher along with a auth.url link to the copyright that the sheet music adheres to. Below is a link to the edited file.
 
+https://github.com/DTM-23/MCA-2022/blob/master/data/Week5task.mei
+
 
 
 
