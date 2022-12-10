@@ -1827,7 +1827,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt {
   margin-top: 1em;
 }
 
-mei-filedesc > mei-titlestmt> mei-respstmt > mei-composer::before {
+mei-filedesc > mei-titlestmt > mei-composer::before {
   font-weight: bold;
   content: "Composer: ";
   white-space: pre;
