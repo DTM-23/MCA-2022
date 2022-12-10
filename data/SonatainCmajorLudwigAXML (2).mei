@@ -7,9 +7,10 @@
          <titleStmt>
             <title> Sonata in C Major </title>
             <title type ="subtitle"> A Classical piece for piano </title>
-            <composer> Ludwig Abielle </composer>
+          
             <respStmt>
-             
+              <composer> Ludwig Abielle </composer>
+               <editor> Christian Hesse </editor>
                <name> Dylan Murphy </name>
                
             
