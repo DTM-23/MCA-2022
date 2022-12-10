@@ -108,7 +108,7 @@ Spectogram:
 ![beethovanstringsspectro](https://user-images.githubusercontent.com/113992031/201920165-4cbe4584-390b-42e8-a858-864b33199e3d.png)
  
  
-When comparing the two side by side, 
+An advantage held by the time-frequency based spectogram is that it shows the frequency content of a signal changing over time. The wave-based format does not provide this as it assumes that frequency is consistance throughout the track, and only provides time based information meaning its representation of a frequency signal is incomplete. 
 
 
 
