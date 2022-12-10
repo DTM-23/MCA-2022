@@ -13,15 +13,18 @@
                
              
                
-               
               <name> Dylan Murphy </name>
                
             
             </respStmt>
+            
+            <respStmt> 
+               <editor> Christian Hesse </editor>
+            </respStmt>
          </titleStmt>
          <pubStmt><date isodate="2022-12-07" type="encoding-date">2022-12-07</date>
             <Publisher> Caesura </Publisher>
-              <editor> Christian Hesse </editor>
+              
             <availability>
             <useRestrict authURI="https://creativecommons.org/licenses/by-nc-sa/4.0/"
 authority="Creative Commons"> Creative Commons Attribution 4.0 International, CC BY-NC- SA </useRestrict>
