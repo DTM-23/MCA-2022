@@ -1857,6 +1857,20 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-name {
   font-weight: bold;
 }
 
+mei-filedesc > mei-titlestmt> mei-respstmt > mei-editor::before {
+  content: '\a' "Edited by: ";
+  font-size: 15pt;
+  font-weight: bold;
+}
+
+mei-filedesc > mei-titlestmt> mei-respstmt > mei-editor {
+ 
+  font-size: 15pt;
+  font-weight: bold;
+}
+
+
+
 mei-filedesc > mei-pubstmt > mei-respstmt {
   display: none;
 }
