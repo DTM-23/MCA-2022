@@ -1832,6 +1832,7 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-composer::before {
   content: '\a' "Composed by: ";
   white-space: pre;
   margin-top: 2em;
+  font-size: 15pt;
 }
 
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-name::before {
@@ -1843,12 +1844,13 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-name::before {
 
 mei-filedesc > mei-pubstmt > mei-publisher::before {
   content: '\a' "Published by: ";
-  font-size:15;
+  font-size:15pt;
   font-weight: bold;
 }
  
 mei-filedesc > mei-pubstmt > mei-publisher {
   font-weight: bold;
+  font-size: 15pt;
 }
 
 
@@ -1882,6 +1884,11 @@ mei-pubstmt > mei-address {
 mei-filedesc > mei-pubstmt > mei-date::before {
   font-weight: bold;
   content: "Date encoded: ";
+  font-size:15; 
+}
+
+mei-filedesc > mei-pubstmt > mei-date{
+  font-weight: bold;
   font-size:15; 
 }
 
