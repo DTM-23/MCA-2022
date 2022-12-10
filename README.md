@@ -24,6 +24,11 @@ After:
 
 ![Transcribed Sonata C](https://user-images.githubusercontent.com/113992031/206073453-fa552d37-42d2-4423-bfb9-e40c2b255183.PNG)
 
+Below is my effort to correct the sheet music to the best of my ability:
+
+![Capture](https://user-images.githubusercontent.com/113992031/206827098-444c6ac7-a34c-4b7a-98e5-3ce51e425660.PNG)
+
+
 
 # Week 3
 
@@ -52,7 +57,7 @@ I also uploaded the chord analysis of my piece into my data folder so it can be 
 
 This week saw the introduction of the importance of metadata. I went into my MEI file that I have been analysing across the last few weeks and annotaed the MEI header with key metadata regarding the piece. 
 
-I modified and added in elements such as the editor of the sheet music that I used, as well as adding in the publisher along with a auth.url link to the copyright that the sheet music adheres to. Below is a link to the edited file.
+I modified and added in elements such as the editor of the sheet music that I used, along with the publisher of that sheet music. Below is a link to the edited file.
 
 https://github.com/DTM-23/MCA-2022/blob/master/data/Week5task.mei
 
@@ -63,7 +68,7 @@ https://github.com/DTM-23/MCA-2022/blob/master/data/Week5task.mei
 # Week 7
 
 
- This week saw further editing of the week 5 file on enrich it with more metadata which was then displayed using the verovio viewer. CSS code was used to neatly format the metadata at the top of the piece to make it more readable. Below is a link to my edited score with the added metadata, I included an authority link to the copyright for the sheet music.
+ This week saw further editing of the week 5 file on enrich it with more metadata which was then displayed using the verovio viewer. CSS code was used to neatly format the metadata at the top of the piece to make it more readable. Below is a link to my edited score with the added metadata, I included an authority link to the copyright for the sheet music using the auth.URL line of code. 
  
  https://dtm-23.github.io/MCA-2022/MyMeta.html
 
