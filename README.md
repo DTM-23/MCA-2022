@@ -61,7 +61,9 @@ I modified and added in elements such as the editor of the sheet music that I us
 # Week 7
 
 
- This week saw further editing of the week 5 file on enrich it with more metadata which was then displayed using the verovio viewer. CSS code was used to neatly format the metadata at the top of the piece to make it more readable.
+ This week saw further editing of the week 5 file on enrich it with more metadata which was then displayed using the verovio viewer. CSS code was used to neatly format the metadata at the top of the piece to make it more readable. Below is a link to my edited score with the added metadata, I included an authority link to the copyright for the sheet music.
+ 
+ https://dtm-23.github.io/MCA-2022/MyMeta.html
 
 
 
@@ -94,6 +96,8 @@ Waveform:
 
 Spectogram:
 ![beethovanstringsspectro](https://user-images.githubusercontent.com/113992031/201920165-4cbe4584-390b-42e8-a858-864b33199e3d.png)
+
+
 
 
 # Week 9
