@@ -57,7 +57,10 @@ I also uploaded the chord analysis of my piece into my data folder so it can be 
 
 This week saw the introduction of the importance of metadata. I went into my MEI file that I have been analysing across the last few weeks and annotaed the MEI header with key metadata regarding the piece. 
 
-I modified and added in elements such as the editor of the sheet music that I used, along with the publisher of that sheet music. Below is a link to the edited file.
+I identifed some key features of the sheet music and their associated elements witin the MEI documentation standards. Some had a 1 to 1 translation such as the composer element simply being <composer>. Other elements had different titles from what was expected, such as the location of a publisher being pubPlace. I did not modify all of the elements identifed in my schema however.
+
+ 
+Below is a link to the edited file.
 
 https://github.com/DTM-23/MCA-2022/blob/master/data/Week5task.mei
 
@@ -103,6 +106,9 @@ Waveform:
 
 Spectogram:
 ![beethovanstringsspectro](https://user-images.githubusercontent.com/113992031/201920165-4cbe4584-390b-42e8-a858-864b33199e3d.png)
+ 
+ 
+When comparing the two side by side, 
 
 
 
