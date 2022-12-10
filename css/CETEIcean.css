@@ -1835,6 +1835,14 @@ mei-filedesc > mei-titlestmt > mei-respstmt > mei-composer::before {
   font-size: 15pt;
 }
 
+mei-filedesc > mei-titlestmt > mei-respstmt > mei-composer {
+  font-weight: bold;
+  white-space: pre;
+  margin-top: 2em;
+  font-size: 15pt;
+  
+}
+
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-name::before {
   font-weight: bold;
   content: '\a'"Encoded by: ";
@@ -1884,12 +1892,12 @@ mei-pubstmt > mei-address {
 mei-filedesc > mei-pubstmt > mei-date::before {
   font-weight: bold;
   content: "Date encoded: ";
-  font-size:15; 
+  font-size:15pt; 
 }
 
 mei-filedesc > mei-pubstmt > mei-date{
   font-weight: bold;
-  font-size:15; 
+  font-size:15pt; 
 }
 
 mei-filedesc > mei-pubstmt > mei-date::after {
