@@ -1844,8 +1844,13 @@ mei-filedesc > mei-titlestmt> mei-respstmt > mei-name::before {
 mei-filedesc > mei-pubstmt > mei-publisher::before {
   content: '\a' "Published by: ";
   font-size:15;
-  font-style: bold;
+  font-weight: bold;
 }
+ 
+mei-filedesc > mei-pubstmt > mei-publisher {
+  font-weight: bold;
+}
+
 
 mei-filedesc > mei-titlestmt> mei-respstmt > mei-name {
   font-size: 15pt;
