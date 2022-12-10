@@ -1817,6 +1817,11 @@ mei-filedesc > mei-titlestmt > mei-title {
   font-size: 30pt;
 }
 
+mei-filedesc > mei-titlestmt > mei-title[type="subtitle"] {
+  color: #595b66;
+  display: block;
+  font-size: 15pt;
+}
 mei-filedesc > mei-titlestmt > mei-respstmt {
   display: block;
   margin-top: 1em;
