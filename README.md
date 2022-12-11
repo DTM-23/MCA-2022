@@ -190,5 +190,17 @@ Beethovan piano sonata Chromagram:
 
 
 
+Part 1 of the final lab week involved generating a simularity matrix of the different chroma values of 9 tracks. Three of these tracks were replaced using my own three tracks used during weeks 8-9. From this, we can see how similar the features of these tracks are to that of the others inside the python notebook. Below is the resulting matrix:
+ 
+ Matrix 1:
+ 
+ ![sim matrix 1](https://user-images.githubusercontent.com/113992031/206927841-6df506cd-0683-4a27-97d8-663be18683e1.png)
 
+ 
+ 
+ Matrix 2:
+ 
+ ![download](https://user-images.githubusercontent.com/113992031/206927849-5bc89d4d-1a02-41cf-aeb2-dc84a2fc9bc8.png)
+
+ 
 
