@@ -82,7 +82,7 @@ https://github.com/DTM-23/MCA-2022/blob/master/data/Week5task.mei
 
 During week 8, I found classical piano pieces which I could then analyse in the form of a spectrograph in sonic visualiser.
 
-Example 1:
+Example 1: Ludwig van Beethovan piano sonata No.2 Op.2 No.2
 
 Spectrogram: 
 ![Beethovanspectro](https://user-images.githubusercontent.com/113992031/201108147-7b6e01fc-c0c2-4474-a218-49ed8efdd78c.png)
@@ -90,7 +90,7 @@ Spectrogram:
 Waveform:
 ![Beethovanwaveform](https://user-images.githubusercontent.com/113992031/201108192-52ef8951-c0a5-42ff-9ace-bde5a48174f5.png)
 
-Example 2:
+Example 2: Jadin piano sonata 
 
 Waveform:
 ![jadinwaveform](https://user-images.githubusercontent.com/113992031/201110120-f3f27c24-5a73-4b9d-a14f-7210391b8284.png)
@@ -99,7 +99,7 @@ Waveform:
 Spectogram:
 ![Jadinspectro](https://user-images.githubusercontent.com/113992031/201110147-5cf14043-9fab-408e-8e73-b16728d4d42d.png)
 
-Example 3:
+Example 3: Ludwig Van Beethovan String Quartet No.1, Op.18 No.1
 
 Waveform:
 ![Beethovanstrings](https://user-images.githubusercontent.com/113992031/201920131-eb332cfa-9742-4093-ac68-2e0a94a5a2e5.png)
@@ -114,6 +114,32 @@ An advantage held by the time-frequency based spectogram is that it shows the fr
 
 
 # Week 9
+
+During this lab session I took the 3 tracks that I used during the previous week and further analysed them using Sonic Visualiser. On top of the spectrogram generate for each track I also generated a MFCC along with a chromagram, along with saving the three as CSV files. Down below is the different panes generated. 
+
+Beethovan piano sonata MFCC:
+
+![BeethovansonataMFCC](https://user-images.githubusercontent.com/113992031/206925837-5a5ce2ce-80ec-475d-8ded-a3e5b5198613.png)
+
+Beethovan piano sonata Chromagram:
+
+![Beethovansonatachromo](https://user-images.githubusercontent.com/113992031/206925862-4149a3f6-a8f8-444f-becd-342bba30eacb.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
