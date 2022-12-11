@@ -147,7 +147,8 @@ Beethovan piano sonata Chromagram:
  
  Beethovan piano sonata histograms:
  
- ![BeethovanchromaHistrogram (1)](https://user-images.githubusercontent.com/113992031/206926213-5efff342-0089-47ef-aa04-08d07a0fbdc5.png)
+![BeethovanCSVhistrograms](https://user-images.githubusercontent.com/113992031/206926690-d1349be7-4562-42c4-9b0c-5a6c1f89fc0c.png)
+
 
  Jadin piano sonata histrograms:
  
