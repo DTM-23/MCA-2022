@@ -141,6 +141,26 @@ Beethovan piano sonata Chromagram:
  Beethovan String Quartet Chromogram:
  
  ![Chromoallegro](https://user-images.githubusercontent.com/113992031/206926121-a9641d4e-4200-4cd9-a31e-0e236b46bf0e.png)
+ 
+ 
+ Afterward, I used python notebook to create individual MFCC histograms for these 3 tracks which are seen below:
+ 
+ Beethovan piano sonata histograms:
+ 
+ ![BeethovanchromaHistrogram (1)](https://user-images.githubusercontent.com/113992031/206926213-5efff342-0089-47ef-aa04-08d07a0fbdc5.png)
+
+ Jadin piano sonata histrograms:
+ 
+ ![JadinMFCCHistrogram](https://user-images.githubusercontent.com/113992031/206926262-620e10a0-dec8-4402-b269-dfe8805c53b9.png)
+
+ Beethovan string quartet histograms:
+ 
+ ![AllegroMFCChistrograms](https://user-images.githubusercontent.com/113992031/206926297-b27343d4-117f-4eb7-a103-3a00216c9f9e.png)
+
+ 
+ 
+ 
+ 
 
  
 
