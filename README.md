@@ -125,6 +125,24 @@ Beethovan piano sonata Chromagram:
 
 ![Beethovansonatachromo](https://user-images.githubusercontent.com/113992031/206925862-4149a3f6-a8f8-444f-becd-342bba30eacb.png)
 
+ 
+ Jadin piano sonata MFCC:
+ 
+ ![JadinMFCC](https://user-images.githubusercontent.com/113992031/206925991-a1fb7e25-c586-401c-82e5-e9410e67c0a5.png)
+
+ Jadin piano sonata Chromagram:
+ 
+ ![jADINchromo](https://user-images.githubusercontent.com/113992031/206925999-7318938f-d49c-4852-a6ed-707a2cccb3e7.png)
+
+ Beethovan String Quartet MFCC:
+ 
+ ![MFCCallegro](https://user-images.githubusercontent.com/113992031/206926093-f6fd8c4e-4d4a-4c81-8e4e-1c6fe71ca67c.png)
+
+ Beethovan String Quartet Chromogram:
+ 
+ ![Chromoallegro](https://user-images.githubusercontent.com/113992031/206926121-a9641d4e-4200-4cd9-a31e-0e236b46bf0e.png)
+
+ 
 
 
 
