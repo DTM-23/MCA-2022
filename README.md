@@ -201,6 +201,21 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
  Matrix 2:
  
  ![download](https://user-images.githubusercontent.com/113992031/206927849-5bc89d4d-1a02-41cf-aeb2-dc84a2fc9bc8.png)
+ 
+ 
+ Part 2 involved using my chosen piece from back in week 2 and transcribing the WAV file verison of it into musescore, allowing us to critical analyse the differences that the transcirption had.
+ 
+ 
+ Week 2 transciption:
+ 
+ 
+ 
+ 
+ Week 10 transcription:
+ 
+ 
+ 
+ 
 
  
 
