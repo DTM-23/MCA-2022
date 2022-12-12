@@ -75,9 +75,9 @@ This week saw further editing of the week 5 file on enrich it with more metadata
  
  https://dtm-23.github.io/MCA-2022/MyMeta.html
  
- Click [here](SonatainCmajorLudwigAXML (2).mei) to view the edited MEI code.
+ Click [here](https://github.com/DTM-23/MCA-2022/blob/master/data/SonatainCmajorLudwigAXML%20(2).mei) to view the edited MEI code.
  
- https://dtm-23.github.io/MCA-2022/MyMeta.html
+
 
 
 
