@@ -20,7 +20,7 @@ Below is an example of the first fews bars of the piece before and then after it
 
 
 
-After:
+<b> After: </b>
 
 ![Transcribed Sonata C](https://user-images.githubusercontent.com/113992031/206073453-fa552d37-42d2-4423-bfb9-e40c2b255183.PNG)
 
@@ -94,7 +94,7 @@ This week saw further editing of the week 5 file on enrich it with more metadata
 
 During week 8, I found classical piano pieces which I could then analyse in the form of a spectrograph in sonic visualiser.
 
-Example 1: Ludwig van Beethovan piano sonata No.2 Op.2 No.2
+ <b> Example 1: Ludwig van Beethovan piano sonata No.2 Op.2 No.2 </b>
 
 Spectrogram: 
 ![Beethovanspectro](https://user-images.githubusercontent.com/113992031/201108147-7b6e01fc-c0c2-4474-a218-49ed8efdd78c.png)
@@ -102,7 +102,7 @@ Spectrogram:
 Waveform:
 ![Beethovanwaveform](https://user-images.githubusercontent.com/113992031/201108192-52ef8951-c0a5-42ff-9ace-bde5a48174f5.png)
 
-Example 2: Jadin piano sonata 
+ <b> Example 2: Jadin piano sonata </b>
 
 Waveform:
 ![jadinwaveform](https://user-images.githubusercontent.com/113992031/201110120-f3f27c24-5a73-4b9d-a14f-7210391b8284.png)
@@ -111,7 +111,7 @@ Waveform:
 Spectogram:
 ![Jadinspectro](https://user-images.githubusercontent.com/113992031/201110147-5cf14043-9fab-408e-8e73-b16728d4d42d.png)
 
-Example 3: Ludwig Van Beethovan String Quartet No.1, Op.18 No.1
+ <b> Example 3: Ludwig Van Beethovan String Quartet No.1, Op.18 No.1 </b>
 
 Waveform:
 ![Beethovanstrings](https://user-images.githubusercontent.com/113992031/201920131-eb332cfa-9742-4093-ac68-2e0a94a5a2e5.png)
@@ -130,44 +130,44 @@ An advantage held by the time-frequency based spectogram is that it shows the fr
 
 During this lab session I took the 3 tracks that I used during the previous week and further analysed them using Sonic Visualiser. On top of the spectrogram generate for each track I also generated a MFCC along with a chromagram, along with saving the three as CSV files. Down below is the different panes generated. 
 
-Beethovan piano sonata MFCC:
+ <b> Beethovan piano sonata MFCC: </b>
 
 ![BeethovansonataMFCC](https://user-images.githubusercontent.com/113992031/206925837-5a5ce2ce-80ec-475d-8ded-a3e5b5198613.png)
 
-Beethovan piano sonata Chromagram:
+ <b> Beethovan piano sonata Chromagram </b>
 
 ![Beethovansonatachromo](https://user-images.githubusercontent.com/113992031/206925862-4149a3f6-a8f8-444f-becd-342bba30eacb.png)
 
  
- Jadin piano sonata MFCC:
+ <b>  Jadin piano sonata MFCC </b>
  
  ![JadinMFCC](https://user-images.githubusercontent.com/113992031/206925991-a1fb7e25-c586-401c-82e5-e9410e67c0a5.png)
 
- Jadin piano sonata Chromagram:
+ <b> Jadin piano sonata Chromagram </b>
  
  ![jADINchromo](https://user-images.githubusercontent.com/113992031/206925999-7318938f-d49c-4852-a6ed-707a2cccb3e7.png)
 
- Beethovan String Quartet MFCC:
+ <b> Beethovan string quartet MFCC </b>
  
  ![MFCCallegro](https://user-images.githubusercontent.com/113992031/206926093-f6fd8c4e-4d4a-4c81-8e4e-1c6fe71ca67c.png)
 
- Beethovan String Quartet Chromogram:
+ <b> Beethovan string quartet chromagram </b>
  
  ![Chromoallegro](https://user-images.githubusercontent.com/113992031/206926121-a9641d4e-4200-4cd9-a31e-0e236b46bf0e.png)
  
  
  Afterward, I used python notebook to create individual MFCC histograms for these 3 tracks which are seen below:
  
- Beethovan piano sonata histograms:
+ <b> beethovan piano sonata histograms: </b>
  
 ![BeethovanCSVhistrograms](https://user-images.githubusercontent.com/113992031/206926690-d1349be7-4562-42c4-9b0c-5a6c1f89fc0c.png)
 
 
- Jadin piano sonata histrograms:
+ <b>Jadin piano sonata histrograms: </b>
  
  ![JadinMFCCHistrogram](https://user-images.githubusercontent.com/113992031/206926262-620e10a0-dec8-4402-b269-dfe8805c53b9.png)
 
- Beethovan string quartet histograms:
+ <b>Beethovan string quartet histograms: </b>
  
  ![AllegroMFCChistrograms](https://user-images.githubusercontent.com/113992031/206926297-b27343d4-117f-4eb7-a103-3a00216c9f9e.png)
 
@@ -205,21 +205,21 @@ Beethovan piano sonata Chromagram:
 
 Part 1 of the final lab week involved generating a simularity matrix of the different chroma values of 9 tracks. Three of these tracks were replaced using my own three tracks used during weeks 8-9. From this, we can see how similar the features of these tracks are to that of the others inside the python notebook. Below is the resulting matrix:
  
- 
- 
- Matrix:
+ <b>Matrix: </b>
  
  ![download](https://user-images.githubusercontent.com/113992031/206927849-5bc89d4d-1a02-41cf-aeb2-dc84a2fc9bc8.png)
  
  
  Part 2 involved using my chosen piece from back in week 2 and transcribing the WAV file verison of it into musescore, allowing us to critical analyse the differences that the transcirption had. 
  
- Week 10 wav image:
+ 
+ <b>Week 10 wav image: </b>
  
  ![WEEK10WAVIMAGE](https://user-images.githubusercontent.com/113992031/206943839-5ef80d43-b6ca-4ec5-b6fb-9bf88fa7159d.png)
 
  
- Week 10 polyphonic transcription image:
+ 
+ <b> Week 10 polyphonic transcription image: </b>
  
  ![WEEK10POLYIMAGE](https://user-images.githubusercontent.com/113992031/206943857-468caecd-66b6-4742-aa86-223bcdc220a3.png)
 
@@ -233,7 +233,7 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
  
  
  
- Week 2 transciption:
+ <b> Week 2 transciption: </b>
  
  ![Week2Sonatatrans-1](https://user-images.githubusercontent.com/113992031/206947325-1b778e83-8c5f-4e9d-bce6-25035b64323e.png)
 
@@ -242,9 +242,7 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
 
 
 
-
- 
- Week 10 transcription:
+ <b> Week 10 transcription: </b>
  
  ![Week10transcription-1](https://user-images.githubusercontent.com/113992031/206943718-dcd1181b-e145-4792-9723-cb33136f2408.png)
 
