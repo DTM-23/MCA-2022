@@ -203,19 +203,42 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
  ![download](https://user-images.githubusercontent.com/113992031/206927849-5bc89d4d-1a02-41cf-aeb2-dc84a2fc9bc8.png)
  
  
- Part 2 involved using my chosen piece from back in week 2 and transcribing the WAV file verison of it into musescore, allowing us to critical analyse the differences that the transcirption had.
+ Part 2 involved using my chosen piece from back in week 2 and transcribing the WAV file verison of it into musescore, allowing us to critical analyse the differences that the transcirption had. 
+ 
+ Week 10 wav image:
+ 
+ ![WEEK10WAVIMAGE](https://user-images.githubusercontent.com/113992031/206943839-5ef80d43-b6ca-4ec5-b6fb-9bf88fa7159d.png)
+
+ 
+ Week 10 polyphonic transcription image:
+ 
+ ![WEEK10POLYIMAGE](https://user-images.githubusercontent.com/113992031/206943857-468caecd-66b6-4742-aa86-223bcdc220a3.png)
+
+ 
+ 
+ 
+ The polyphonic pane was then loaded into musescore, below is a comparsion between my corrected week 2 transcription and the week 10 transcription.
+ 
+ 
+ 
+ 
  
  
  Week 2 transciption:
  
- 
- 
+ ![SonatainCmajorLudwigA-1](https://user-images.githubusercontent.com/113992031/206943701-6f3a0ed4-1dce-48cb-942b-4c22ee7d0afc.png)
+
+ ![SonatainCmajorLudwigA-2](https://user-images.githubusercontent.com/113992031/206943706-5c0a8180-fd4e-4c84-a197-cda164c3a28f.png)
+
  
  Week 10 transcription:
  
- 
- 
- 
+ ![Week10transcription-1](https://user-images.githubusercontent.com/113992031/206943718-dcd1181b-e145-4792-9723-cb33136f2408.png)
+
+ ![Week10transcription-2](https://user-images.githubusercontent.com/113992031/206943730-274d4262-3cfa-4062-b546-f08a2db2f5e8.png)
+
+ ![Week10transcription-3](https://user-images.githubusercontent.com/113992031/206943745-d1378d90-cdf6-4957-aeec-b447764fa7df.png)
+
 
  
 
