@@ -226,8 +226,10 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
  
  Week 2 transciption:
  
- ![SonatainCmajorLudwigA-1](https://user-images.githubusercontent.com/113992031/206943701-6f3a0ed4-1dce-48cb-942b-4c22ee7d0afc.png) ![SonatainCmajorLudwigA-2
- (https://user-images.githubusercontent.com/113992031/206944148-b161da3d-0975-4c4a-be8e-55fc610115cf.png)
+ ![SonatainCmajorLudwigA-1](https://user-images.githubusercontent.com/113992031/206943701-6f3a0ed4-1dce-48cb-942b-4c22ee7d0afc.png) 
+ 
+ ![SonatainCmajorLudwigA-2](https://user-images.githubusercontent.com/113992031/206944214-1dad0df8-a49f-4bf1-8560-1df24378d387.png)
+
 
 
 
