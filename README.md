@@ -3,9 +3,9 @@
 
 # Week 1
 
-The Theme that I chose to base my dataset around is Music from the Classical period. I choose this as it allows easy access to all 3 of the types of data required. 
+The Theme that I chose to base my dataset around is Music from the Classical period. I choose this as it allows easier access to all 3 of the types of data required as music from this period is avaliable in abundance on sites such as IMLSP.
 
-Key challenges to working with music/music related data is the restrictions that copyright place upon selection of music that can be analysed. Music in a public domain is completely avalilble for the purposes of the assessment, but music which is more mainstream, and more well known, is more difficult and harder to access. This makes music which is desirable to analyse and curate less readily avaliable, and can lead to the study and analysis of music which may not be as interesting or harder to curate a dataset around. In relation to pieces from the classical period, this music can be difficult to find an accurate and original recording of due to the limitations of the time. Often sheet music of pieces that can be transcribed are under some level of copyright, so even though I have chosne this period in order to avoid copyright it still may be difficult to actually do this.
+Key challenges to working with music/music related data is the restrictions that copyright place upon selection of music that can be analysed. Music in a public domain is completely avalilble for the purposes of the assessment, but music which is more mainstream, and more well known, is more difficult and harder to access. This makes music which is desirable to analyse and curate less readily avaliable, and can lead to the study and analysis of music which may not be as interesting or harder to curate a dataset around. In relation to pieces from the classical period, this music can be difficult to find an accurate and original recording of due to the limitations of the time. These classical pieces can then only be curated from updated modern versions of them rather than the original manuscript. Often sheet music of pieces that can be transcribed are under some level of copyright, so even though I have chose this period in order to avoid copyright it still may be difficult to actually do this. 
 
 #  Week 2
 
