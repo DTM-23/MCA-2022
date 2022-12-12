@@ -68,7 +68,7 @@ This week saw the introduction of the importance of metadata. I went into my MEI
 I identifed some key features of the sheet music and their associated elements witin the MEI documentation standards. Some had a 1 to 1 translation such as the composer element simply being <composer>. Other elements had different titles from what was expected, such as the location of a publisher being pubPlace. I did not modify all of the elements identifed in my schema however.
 
  
-Access this edited file [here}(https://github.com/DTM-23/MCA-2022/blob/master/data/Week5task.mei)
+Access this edited file [here](https://github.com/DTM-23/MCA-2022/blob/master/data/Week5task.mei)
 
 
 
