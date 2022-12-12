@@ -128,7 +128,7 @@ Spectogram:
  
  <b> Analysis </b>
  
-An advantage held by the time-frequency based spectogram is that it shows the frequency content of a signal changing over time. The wave-based format does not provide this as it assumes that frequency is consistance throughout the track, and only provides time based information meaning its representation of a frequency signal is incomplete. Waveform analysis also in comparsion is information dense, making it hard to decipher information from in contrast to the spectrogram which displays particular notes at particular frequencys so we can then determine which notes are atually being played.
+An advantage held by the time-frequency based spectogram is that it shows the frequency content of a signal changing over time. The wave-based format does not provide this as it assumes that frequency is consistance throughout the track, and only provides time based information meaning its representation of a frequency signal is incomplete. Waveform analysis also in comparsion is information dense, making it hard to decipher information from in contrast to the spectrogram which displays particular notes at particular frequencys so we can then determine which notes are atually being played. In the spectogram for Example 3 we can determine the individual higher notes that are being played, they are seen with the deeper orange colour, a waveform does not provide this.
 
  
 
