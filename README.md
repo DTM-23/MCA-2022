@@ -179,7 +179,7 @@ During this lab session I took the 3 tracks that I used during the previous week
 
  
  
- When comparing the pitch histogram to my listening experience, I was equally surprised and not surprised at elements witin the histograms. Due to the fact I am comparing 3 sets of histograms for different classical pieces, it made sense that they would all turn out quite similar to one another. 
+ When comparing the pitch histogram to my listening experience, I was equally surprised and not surprised at elements witin the histograms. Due to the fact I am comparing 3 sets of histograms for different classical pieces, it made sense that they would all turn out quite similar to one another for the most part. The most significant difference across the sets of histograms would come with historgrams 0-2 for the Beethovan piano sonata piece in comparison to 0-2 for the other 2 tracks. All the other histograms generically trend upward then slope downward whilst track 1's 1 histogram does this two seperate times. This is known as a bimodel histogram, and suggests that in this piece there were 2 or more clusters of high frequency numbers which arose.
  
 
  
