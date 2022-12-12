@@ -95,8 +95,9 @@ Task 1 of week 8 employed me to find 3 tracks which related to my dataset theme,
  
  
 Title | Artist | Composer | Copyright | Genre | Source | File/audio format | Number of channels | Smaple rate | Bits per second | Duration |
- 
- 
+ -----|--------|----------|
+ Content | content |
+ Content | Content |
  
  Also during week 8, The classical pieces I found were then transformed into the form of a spectrograph in sonic visualiser.
 
