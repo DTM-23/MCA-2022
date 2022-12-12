@@ -32,7 +32,7 @@ Below is my effort to correct the sheet music to the best of my ability:
 
 # Week 3
 
-The link below will display my transcribed score online via the verovio viewer, along with some comments on the differences and advantages that XML and MEI files respectively have.
+This week introuced the Verovio viewer tool, and how it can be used to electronically display scores online. The link below will display my transcribed score online via the verovio viewer, along with some comments on the differences and advantages that XML and MEI files respectively have.
 
 https://dtm-23.github.io/MCA-2022/verovio.html
 
@@ -71,7 +71,7 @@ https://github.com/DTM-23/MCA-2022/blob/master/data/Week5task.mei
 # Week 7
 
 
- This week saw further editing of the week 5 file on enrich it with more metadata which was then displayed using the verovio viewer. CSS code was used to neatly format the metadata at the top of the piece to make it more readable. Below is a link to my edited score with the added metadata, I included an authority link to the copyright for the sheet music using the auth.URL line of code. 
+This week saw further editing of the week 5 file on enrich it with more metadata which was then displayed using the verovio viewer. CSS code was used to neatly format the metadata at the top of the piece to make it more readable. Below is a link to my edited score with the added metadata, I included an authority link to the copyright for the sheet music using the auth.URL line of code. 
  
  https://dtm-23.github.io/MCA-2022/MyMeta.html
 
@@ -110,6 +110,7 @@ Spectogram:
  
 An advantage held by the time-frequency based spectogram is that it shows the frequency content of a signal changing over time. The wave-based format does not provide this as it assumes that frequency is consistance throughout the track, and only provides time based information meaning its representation of a frequency signal is incomplete. 
 
+ 
 
 
 
@@ -217,7 +218,7 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
  
  
  
- The polyphonic pane was then loaded into musescore, below is a comparsion between my corrected week 2 transcription and the week 10 transcription.
+ The polyphonic pane was then loaded into musescore, below is a comparsion between my  week 2 PDF transcription and the week 10 MIDI transcription.
  
  
  
@@ -226,11 +227,9 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
  
  Week 2 transciption:
  
- ![SonatainCmajorLudwigA-1](https://user-images.githubusercontent.com/113992031/206943701-6f3a0ed4-1dce-48cb-942b-4c22ee7d0afc.png) 
  
- ![SonatainCmajorLudwigA-2](https://user-images.githubusercontent.com/113992031/206944214-1dad0df8-a49f-4bf1-8560-1df24378d387.png)
 
-
+![week2score-1](https://user-images.githubusercontent.com/113992031/206946076-b448f627-f8e7-4602-9886-d140c3e28be0.png)
 
 
 
@@ -245,4 +244,6 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
 
 
  
+ Whilst the original PDF transcription was quite inaccurate, the MIDI transcription is significantly more so. 
+
 
