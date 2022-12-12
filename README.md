@@ -30,11 +30,11 @@ Below is my effort to correct the sheet music to the best of my ability:
 
 These links below direct to the location of these files in this repository:
 
-[Orignal image]()
+[Orignal image](https://github.com/DTM-23/MCA-2022/blob/master/LabTaskfiles/ORIGINAL%20SONATA%20C.PNG)
 
-[Transcribed image]()
+[Transcribed image](https://github.com/DTM-23/MCA-2022/blob/master/LabTaskfiles/Transcribed%20Sonata%20C.PNG)
 
-[Corrected image]()
+[Corrected image](https://github.com/DTM-23/MCA-2022/blob/master/LabTaskfiles/Capture.PNG)
 
 
 
