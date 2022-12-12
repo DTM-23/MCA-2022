@@ -57,7 +57,7 @@ During Week 4, I used python code to analyse an excel file which I created using
 
 The Jsymbolic analysis of my piece also displayed intriguing results. I learned that the number of pitches within my piece was 31, along with the mean pitch being 65 and the most common pitch class being 7. 
 
-I also uploaded the chord analysis of my piece into my data folder so it can be viewed. This file can be used for indepth analysis of individual chords, giving details on their step, octave, duration and note type.
+I also uploaded the chord analysis of my piece into my data folder so it can be [viewed](https://github.com/DTM-23/MCA-2022/blob/master/data/ChordAnalysis.xml). This file can be used for indepth analysis of individual chords, giving details on their step, octave, duration and note type.
 
 
 # Week 5
