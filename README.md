@@ -13,7 +13,7 @@ During week 2, I imported a score into Musescore and corrected any issues that c
 
 Below is an example of the first fews bars of the piece before and then after it was transcribed by Musescore:
 
-Before:
+ <b> Before: </b>
 
 
 ![ORIGINAL SONATA C](https://user-images.githubusercontent.com/113992031/206073438-6b670ec8-e1f3-4598-9e46-fdaa310c1282.PNG)
@@ -74,6 +74,10 @@ https://github.com/DTM-23/MCA-2022/blob/master/data/Week5task.mei
 This week saw further editing of the week 5 file on enrich it with more metadata which was then displayed using the verovio viewer. CSS code was used to neatly format the metadata at the top of the piece to make it more readable. Below is a link to my edited score with the added metadata, I included an authority link to the copyright for the sheet music using the auth.URL line of code. 
  
  https://dtm-23.github.io/MCA-2022/MyMeta.html
+ 
+ Below is the link to how this then displayed on the verovio viewer:
+ 
+ https://dtm-23.github.io/MCA-2022/MyMeta.html
 
 
 
@@ -108,7 +112,7 @@ Spectogram:
 ![beethovanstringsspectro](https://user-images.githubusercontent.com/113992031/201920165-4cbe4584-390b-42e8-a858-864b33199e3d.png)
  
  
-An advantage held by the time-frequency based spectogram is that it shows the frequency content of a signal changing over time. The wave-based format does not provide this as it assumes that frequency is consistance throughout the track, and only provides time based information meaning its representation of a frequency signal is incomplete. 
+An advantage held by the time-frequency based spectogram is that it shows the frequency content of a signal changing over time. The wave-based format does not provide this as it assumes that frequency is consistance throughout the track, and only provides time based information meaning its representation of a frequency signal is incomplete. Waveform analysis also in comparsion is information dense, making it hard to decipher information from in contrast to the spectrogram which displays particular notes at particular frequencys so we can then determine which notes are atually being played.
 
  
 
@@ -193,10 +197,6 @@ Beethovan piano sonata Chromagram:
 
 Part 1 of the final lab week involved generating a simularity matrix of the different chroma values of 9 tracks. Three of these tracks were replaced using my own three tracks used during weeks 8-9. From this, we can see how similar the features of these tracks are to that of the others inside the python notebook. Below is the resulting matrix:
  
- Matrix 1:
- 
- ![sim matrix 1](https://user-images.githubusercontent.com/113992031/206927841-6df506cd-0683-4a27-97d8-663be18683e1.png)
-
  
  
  Matrix 2:
@@ -246,6 +246,6 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
 
 
  
-Whilst the original PDF transcription was quite inaccurate, the MIDI transcription is significantly more so. The week 10 transcription has stretched out the first 30 bars of the pieces across 3 entire pages, each line only containing 2 bars filled with inaccurate transcription of the piece. The key within the piece has also been changed entirely, going from the titular C major to 
+Whilst the original PDF transcription was quite inaccurate, the MIDI transcription is significantly more so. The week 10 transcription has stretched out the first 30 bars of the pieces across 3 entire pages, each line only containing 2 bars filled with inaccurate transcription of the piece. The key within the piece has also been changed entirely, going from the titular C major to B major. 
 
 
