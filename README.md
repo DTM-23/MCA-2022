@@ -179,7 +179,7 @@ During this lab session I took the 3 tracks that I used during the previous week
 
  
  
- 
+ When comparing the pitch histogram to my listening experience, I was equally surprised and not surprised at elements witin the histograms. Due to the fact I am comparing 3 sets of histograms for different classical pieces, it made sense that they would all turn out quite similar to one another. 
  
 
  
