@@ -227,9 +227,11 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
  
  Week 2 transciption:
  
- 
+ ![Week2Sonatatrans-1](https://user-images.githubusercontent.com/113992031/206947325-1b778e83-8c5f-4e9d-bce6-25035b64323e.png)
 
-![week2score-1](https://user-images.githubusercontent.com/113992031/206946076-b448f627-f8e7-4602-9886-d140c3e28be0.png)
+
+![Week2Sonatatrans-2](https://user-images.githubusercontent.com/113992031/206947337-89b8298d-f48d-41c0-aa6d-ee9cb6dd71e3.png)
+
 
 
 
