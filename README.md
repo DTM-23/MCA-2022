@@ -126,6 +126,8 @@ Spectogram:
 ![beethovanstringsspectro](https://user-images.githubusercontent.com/113992031/201920165-4cbe4584-390b-42e8-a858-864b33199e3d.png)
  
  
+ <b> Analysis </b>
+ 
 An advantage held by the time-frequency based spectogram is that it shows the frequency content of a signal changing over time. The wave-based format does not provide this as it assumes that frequency is consistance throughout the track, and only provides time based information meaning its representation of a frequency signal is incomplete. Waveform analysis also in comparsion is information dense, making it hard to decipher information from in contrast to the spectrogram which displays particular notes at particular frequencys so we can then determine which notes are atually being played.
 
  
@@ -177,7 +179,7 @@ During this lab session I took the 3 tracks that I used during the previous week
  
  ![AllegroMFCChistrograms](https://user-images.githubusercontent.com/113992031/206926297-b27343d4-117f-4eb7-a103-3a00216c9f9e.png)
 
- 
+ <b> Analysis </b>
  
  When comparing the pitch histogram to my listening experience, I was equally surprised and not surprised at elements witin the histograms. Due to the fact I am comparing 3 sets of histograms for different classical pieces, it made sense that they would all turn out quite similar to one another for the most part. The most significant difference across the sets of histograms would come with historgrams 0-2 for the Beethovan piano sonata piece in comparison to 0-2 for the other 2 tracks. All the other histograms generically trend upward then slope downward whilst track 1's 1 histogram does this two seperate times. This is known as a bimodel histogram, and suggests that in this piece there were 2 or more clusters of high frequency numbers which arose.
  
@@ -256,7 +258,7 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
 
  ![Week10transcription-3](https://user-images.githubusercontent.com/113992031/206943745-d1378d90-cdf6-4957-aeec-b447764fa7df.png)
 
-
+ <b> Analysis </b>
  
 Whilst the original PDF transcription was quite inaccurate, the MIDI transcription is significantly more so. The week 10 transcription has stretched out the first 30 bars of the pieces across 3 entire pages, each line only containing 2 bars filled with inaccurate transcription of the piece. The key within the piece has also been changed entirely, going from the titular C major to B major. This hightlights an obivous difference as to how musescore interprets acoustic data in comparsion to notated data. This suggests that audio is more difficult for the program to transcribe accurately in comparsion to notated forms of the same piece, as the MIDI file sounds nowhere close to the original whilst the PDF file, whilst not perfect, sounds much more like the original piece.
 
