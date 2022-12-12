@@ -246,6 +246,6 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
 
 
  
-Whilst the original PDF transcription was quite inaccurate, the MIDI transcription is significantly more so. The week 10 transcription has stretched out the first 30 bars of the pieces across 3 entire pages, each line only containing 2 bars filled with inaccurate transcription of the piece. The key within the piece has also been changed entirely, going from the titular C major to B major. 
+Whilst the original PDF transcription was quite inaccurate, the MIDI transcription is significantly more so. The week 10 transcription has stretched out the first 30 bars of the pieces across 3 entire pages, each line only containing 2 bars filled with inaccurate transcription of the piece. The key within the piece has also been changed entirely, going from the titular C major to B major. This hightlights an obivous difference as to how musescore interprets acoustic data in comparsion to notated data. This suggests that audio is more difficult for the program to transcribe accurately in comparsion to notated forms of the same piece, as the MIDI file sounds nowhere close to the original whilst the PDF file, whilst not perfect, sounds much more like the original piece.
 
 
