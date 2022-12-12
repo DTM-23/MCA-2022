@@ -28,6 +28,14 @@ Below is my effort to correct the sheet music to the best of my ability:
 
 ![Capture](https://user-images.githubusercontent.com/113992031/206827098-444c6ac7-a34c-4b7a-98e5-3ce51e425660.PNG)
 
+These links below direct to the location of these files in this repository:
+
+[Orignal image]()
+
+[Transcribed image]()
+
+[Corrected image]()
+
 
 
 # Week 3
@@ -199,7 +207,7 @@ Part 1 of the final lab week involved generating a simularity matrix of the diff
  
  
  
- Matrix 2:
+ Matrix:
  
  ![download](https://user-images.githubusercontent.com/113992031/206927849-5bc89d4d-1a02-41cf-aeb2-dc84a2fc9bc8.png)
  
