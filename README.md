@@ -94,10 +94,8 @@ This week saw further editing of the week 5 file on enrich it with more metadata
 Task 1 of week 8 employed me to find 3 tracks which related to my dataset theme, before then putting the most important metadata about them into a table which is below:
  
  
-Title | Artist | Composer | Copyright | Genre | Source | File/audio format | Number of channels | Smaple rate | Bits per second | Duration |
- -----|--------|----------|
- Content | content |
- Content | Content |
+![taBLE](https://user-images.githubusercontent.com/113992031/206958637-aa73522a-cf67-4dd6-88aa-1d651e6ef388.PNG)
+
  
  Also during week 8, The classical pieces I found were then transformed into the form of a spectrograph in sonic visualiser.
 
