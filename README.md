@@ -91,8 +91,14 @@ This week saw further editing of the week 5 file on enrich it with more metadata
 
 # Week 8
 
-
-During week 8, I found classical piano pieces which I could then analyse in the form of a spectrograph in sonic visualiser.
+Task 1 of week 8 employed me to find 3 tracks which related to my dataset theme, before then putting the most important metadata about them into a table which is below:
+ 
+ 
+Title | Artist | Composer | Copyright | Genre | Source | File/audio format | Number of channels | Smaple rate | Bits per second | Duration |
+ 
+ 
+ 
+ Also during week 8, The classical pieces I found were then transformed into the form of a spectrograph in sonic visualiser.
 
  <b> Example 1: Ludwig van Beethovan piano sonata No.2 Op.2 No.2 </b>
 
